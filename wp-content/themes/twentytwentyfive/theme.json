@@ -167,6 +167,19 @@
 					]
 				},
 				{
+					"name": "IranYekan",
+					"slug": "iranyekan",
+					"fontFamily": "IranYekan, sans-serif",
+					"fontFace": [
+						{
+							"src": [
+								"file:./assets/fonts/IranYekan/iranyekanwebregular.534fe99e.woff"
+							],
+							"fontFamily": "IranYekan"
+						}
+					]
+				},
+				{
 					"name": "Fira Code",
 					"slug": "fira-code",
 					"fontFamily": "\"Fira Code\", monospace",
@@ -198,7 +211,7 @@
 			}
 		},
 		"typography": {
-			"fontFamily": "var:preset|font-family|manrope",
+			"fontFamily": "var:preset|font-family|iranyekan",
 			"fontSize": "var:preset|font-size|large",
 			"fontWeight": "300",
 			"letterSpacing": "-0.1px",
