@@ -1,0 +1,33 @@
+/*
+Theme Name: Carbon Agency
+Author: Kantipur Themes
+Author URI: https://www.kantipurthemes.com/
+Theme URI: https://www.kantipurthemes.com/carbon-agency
+Description: Carbon Agency is a Full Site Editing Business WordPress theme. This theme is designed specifically for businesses in Business Consulting, IT Solutions, Creative Agencies, Financial Advisory, Transport & Logistics, and many more. This theme provides a professional and modern look, making it an ideal choice for Multipurpose businesses seeking an online presence.
+Tags: full-site-editing, editor-style, block-styles, block-patterns
+Text Domain: carbon-agency
+Requires at least: 6.3
+Requires PHP: 7.4
+Tested up to: 6.8
+Version: 1.0.0
+
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/* Styles intended only for the front.*/
+html {
+	scroll-behavior: smooth;
+}
+
+@media screen and (prefers-reduced-motion: reduce) {
+
+	html {
+		scroll-behavior: auto;
+	}
+}
+
+body {
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+}

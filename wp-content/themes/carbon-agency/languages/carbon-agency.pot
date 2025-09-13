@@ -1,0 +1,174 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-21 15:54+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions.php:113
+msgid "Welcome to the"
+msgstr ""
+
+#: functions.php:114
+msgid "is now installed and ready to use."
+msgstr ""
+
+#: functions.php:117
+msgid "carbon-pro"
+msgstr ""
+
+#: functions.php:117
+msgid "Buy Pro"
+msgstr ""
+
+#: functions.php:118
+msgid "Theme Info"
+msgstr ""
+
+#: inc/filters.php:18
+msgctxt "Used if posts or pages has no title"
+msgid "(No title)"
+msgstr ""
+
+#: inc/register-block-patterns.php:25
+msgid "Theme patterns"
+msgstr ""
+
+#: inc/register-block-styles.php:22
+msgid "Flat button"
+msgstr ""
+
+#: inc/register-block-styles.php:30
+msgid "Underlined list items"
+msgstr ""
+
+#: inc/register-block-styles.php:38 inc/register-block-styles.php:46
+#: inc/register-block-styles.php:54
+msgid "Box shadow"
+msgstr ""
+
+#: inc/register-block-styles.php:62
+msgid "Plus & minus"
+msgstr ""
+
+#: patterns/about.php:26
+msgid "About us"
+msgstr ""
+
+#: patterns/about.php:30
+msgid "What You Need To Know About Our Company"
+msgstr ""
+
+#: patterns/about.php:34 patterns/hero.php:21
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+"Lorem Ipsum has been the industry standard dummy text ever since the 1500s."
+msgstr ""
+
+#: patterns/about.php:38
+msgid ""
+"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis "
+"praesentium voluptatum deleniti atque corrupti quos dolores et quas "
+"molestias excepturi sint occaecati cupiditate non provident."
+msgstr ""
+
+#: patterns/about.php:43
+msgid "READ MORE"
+msgstr ""
+
+#: patterns/callback.php:18
+msgid "Have A Business Idea In Your Mind?"
+msgstr ""
+
+#: patterns/callback.php:25
+msgid "CONTACT US"
+msgstr ""
+
+#: patterns/columns-with-images.php:20 patterns/columns-with-images.php:26
+#: patterns/columns-with-images.php:38
+msgctxt "sample content"
+msgid "Sample content. Replace the text with your own content."
+msgstr ""
+
+#: patterns/comments.php:17
+msgid "Comments"
+msgstr ""
+
+#: patterns/hero.php:17
+msgid "Digital Experience"
+msgstr ""
+
+#: patterns/hero.php:26
+msgid "GET STARTED"
+msgstr ""
+
+#: patterns/hero.php:30
+msgid "LEARN MORE"
+msgstr ""
+
+#: patterns/hidden-404.php:25
+msgid "Page not found"
+msgstr ""
+
+#: patterns/hidden-404.php:30
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: patterns/hidden-footer-links.php:21
+#, php-format
+msgid "Copyright %s. "
+msgstr ""
+
+#: patterns/hidden-footer-links.php:22
+msgctxt "copyright date format"
+msgid "Y"
+msgstr ""
+
+#: patterns/hidden-footer-links.php:24
+msgid "All right reserved."
+msgstr ""
+
+#: patterns/hidden-post-meta.php:21
+msgid "Categories: "
+msgstr ""
+
+#: patterns/latest-posts.php:16
+msgid "Recent Blogs"
+msgstr ""
+
+#: patterns/latest-posts.php:20
+msgid "Checkout Our Latest Insights &amp; Blogs"
+msgstr ""
+
+#: patterns/query.php:44
+msgid "No results"
+msgstr ""
+
+#: patterns/services.php:27
+msgid "Business Management"
+msgstr ""
+
+#: patterns/services.php:31 patterns/services.php:53 patterns/services.php:75
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr ""
+
+#: patterns/services.php:49
+msgid "Strategies &amp; Analysis"
+msgstr ""
+
+#: patterns/services.php:71
+msgid "Security &amp; Marketing"
+msgstr ""

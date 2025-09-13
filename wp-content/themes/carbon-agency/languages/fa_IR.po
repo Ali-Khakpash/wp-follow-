@@ -1,0 +1,184 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-21 15:54+0545\n"
+"PO-Revision-Date: 2025-05-29 21:49+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+#: functions.php:113
+msgid "Welcome to the"
+msgstr "خوش آمدید به"
+
+#: functions.php:114
+msgid "is now installed and ready to use."
+msgstr "اکنون نصب شده و آماده استفاده است."
+
+#: functions.php:117
+msgid "carbon-pro"
+msgstr "کربن پرو"
+
+#: functions.php:117
+msgid "Buy Pro"
+msgstr "خرید پرو"
+
+#: functions.php:118
+msgid "Theme Info"
+msgstr "اطلاعات قالب"
+
+#: inc/filters.php:18
+msgctxt "Used if posts or pages has no title"
+msgid "(No title)"
+msgstr "(بدون عنوان)"
+
+#: inc/register-block-patterns.php:25
+msgid "Theme patterns"
+msgstr "الگوهای تم"
+
+#: inc/register-block-styles.php:22
+msgid "Flat button"
+msgstr "دکمه تخت"
+
+#: inc/register-block-styles.php:30
+msgid "Underlined list items"
+msgstr "آیتم های لیست زیر خط کشیده شده"
+
+#: inc/register-block-styles.php:38 inc/register-block-styles.php:46
+#: inc/register-block-styles.php:54
+msgid "Box shadow"
+msgstr "سایه جعبه"
+
+#: inc/register-block-styles.php:62
+msgid "Plus & minus"
+msgstr "مثبت و منفی"
+
+#: patterns/about.php:26
+msgid "About us"
+msgstr "درباره ما"
+
+#: patterns/about.php:30
+msgid "What You Need To Know About Our Company"
+msgstr "آنچه باید در مورد شرکت ما بدانید"
+
+#: patterns/about.php:34 patterns/hero.php:21
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+"Lorem Ipsum has been the industry standard dummy text ever since the 1500s."
+msgstr ""
+"لورم ایپسوم به سادگی متن ساختگی صنعت چاپ و حروفچینی است. لورم ایپسوم از "
+"دهه 1500 متن ساختگی استاندارد صنعت بوده است."
+
+#: patterns/about.php:38
+msgid ""
+"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis "
+"praesentium voluptatum deleniti atque corrupti quos dolores et quas "
+"molestias excepturi sint occaecati cupiditate non provident."
+msgstr ""
+"لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از "
+"طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان "
+"که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با "
+"هدف بهبود ابزارهای کاربردی می باشد."
+
+#: patterns/about.php:43
+msgid "READ MORE"
+msgstr "ادامه مطلب"
+
+#: patterns/callback.php:18
+msgid "Have A Business Idea In Your Mind?"
+msgstr "آیا ایده کسب و کار در ذهن خود دارید؟"
+
+#: patterns/callback.php:25
+msgid "CONTACT US"
+msgstr "تماس با ما"
+
+#: patterns/columns-with-images.php:20 patterns/columns-with-images.php:26
+#: patterns/columns-with-images.php:38
+msgctxt "sample content"
+msgid "Sample content. Replace the text with your own content."
+msgstr "محتوای نمونه. متن را با محتوای خود جایگزین کنید."
+
+#: patterns/comments.php:17
+msgid "Comments"
+msgstr "نظرات"
+
+#: patterns/hero.php:17
+msgid "Digital Experience"
+msgstr "تجربه دیجیتال"
+
+#: patterns/hero.php:26
+msgid "GET STARTED"
+msgstr "بیا شروع کنیم"
+
+#: patterns/hero.php:30
+msgid "LEARN MORE"
+msgstr "بیشتر بدانید  →"
+
+#: patterns/hidden-404.php:25
+msgid "Page not found"
+msgstr "صفحه یافت نشد"
+
+#: patterns/hidden-404.php:30
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"به نظر می رسد هیچ چیز در این مکان یافت نشد. شاید یک جستجو انجام دهید؟"
+
+#: patterns/hidden-footer-links.php:21
+#, php-format
+msgid "Copyright %s. "
+msgstr "کپی رایت %s. "
+
+#: patterns/hidden-footer-links.php:22
+msgctxt "copyright date format"
+msgid "Y"
+msgstr "Y"
+
+#: patterns/hidden-footer-links.php:24
+msgid "All right reserved."
+msgstr "تمامی حقوق محفوظ است."
+
+#: patterns/hidden-post-meta.php:21
+msgid "Categories: "
+msgstr "دسته بندی ها: "
+
+#: patterns/latest-posts.php:16
+msgid "Recent Blogs"
+msgstr "وبلاگ های اخیر"
+
+#: patterns/latest-posts.php:20
+msgid "Checkout Our Latest Insights &amp; Blogs"
+msgstr "آخرین بینش ها و وبلاگ های ما را بررسی کنید"
+
+#: patterns/query.php:44
+msgid "No results"
+msgstr "بدون نتیجه"
+
+#: patterns/services.php:27
+msgid "Business Management"
+msgstr "مدیریت بازرگانی"
+
+#: patterns/services.php:31 patterns/services.php:53 patterns/services.php:75
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr ""
+"لورم ایپسوم یک متن ساختگی و نامفهوم برای طراحان وب است تا محتوای پیشفرض را "
+"برای پر کردن صفحات وب وارد کنند."
+
+#: patterns/services.php:49
+msgid "Strategies &amp; Analysis"
+msgstr "استراتژی ها و تحلیل ها"
+
+#: patterns/services.php:71
+msgid "Security &amp; Marketing"
+msgstr "امنیت و بازاریابی"
