@@ -135,7 +135,18 @@ require_once get_theme_file_path( 'inc/register-block-styles.php' );
 // Block pattern and block category examples.
 require_once get_theme_file_path( 'inc/register-block-patterns.php' );
 
-function add_custom_footer_message() {
-    echo '<p style="text-align: center; font-size: 14px;">توسعه توسط تیم <a href="https://mihanwp.com" target="_blank">میهن وردپرس</a></p>';
+
+
+
+function my_faq_whatsapp() {
+    return '
+    <div class="wrapper-faq-whatsapp">
+        <a href="https://wa.me/+989301193394" class="message-box" target="_blank">
+            <div class="message-text">
+                پیام به واتس اپ پشتیبان فروش دوره
+            </div>
+        </a>
+    </div>
+    ';
 }
-add_action('wp_footer', 'add_custom_footer_message');
+add_shortcode('faq_whatsapp', 'my_faq_whatsapp');

@@ -35,3 +35,106 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
 }
+
+
+
+.wrapper-faq-whatsapp {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+.wrapper-faq-whatsapp .message-box {
+	background: linear-gradient(135deg, #4CAF50, #45a049);
+	color: white;
+	padding: 15px 25px;
+	border-radius: 25px;
+	box-shadow: 0 4px 15px rgba(76, 175, 80, 0.3);
+	text-align: center;
+	font-size: 16px;
+	font-weight: 500;
+	max-width: 400px;
+	width: 100%;
+	margin: 10px;
+	position: relative;
+	overflow: hidden;
+	text-decoration: none;
+	display: inline-block;
+	transition: all 0.3s ease;
+	cursor: pointer;
+}
+
+.wrapper-faq-whatsapp .message-box:hover {
+	transform: translateY(-2px);
+	box-shadow: 0 6px 20px rgba(76, 175, 80, 0.4);
+	text-decoration: none;
+	color: white;
+}
+
+.wrapper-faq-whatsapp .message-box:active {
+	transform: translateY(0);
+}
+
+.wrapper-faq-whatsapp .message-box:visited {
+	color: white;
+}
+
+.wrapper-faq-whatsapp .message-box::before {
+	content: '';
+	position: absolute;
+	top: -50%;
+	left: -50%;
+	width: 200%;
+	height: 200%;
+	background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
+	animation: shine 3s ease-in-out infinite;
+}
+
+@keyframes shine {
+	0% {
+		transform: rotate(0deg);
+	}
+	100% {
+		transform: rotate(360deg);
+	}
+}
+
+.wrapper-faq-whatsapp .message-text {
+	position: relative;
+	z-index: 1;
+}
+
+/* Responsive design */
+@media (max-width: 480px) {
+	.wrapper-faq-whatsapp {
+		padding: 10px;
+	}
+
+	.wrapper-faq-whatsapp .message-box {
+		font-size: 14px;
+		padding: 12px 20px;
+		margin: 5px;
+		max-width: 100%;
+	}
+}
+
+/* Focus state for accessibility */
+.wrapper-faq-whatsapp .message-box:focus {
+	outline: none;
+	box-shadow: 0 6px 20px rgba(76, 175, 80, 0.4), 0 0 0 3px rgba(76, 175, 80, 0.2);
+}
+
+/* Extra small screens */
+@media (max-width: 320px) {
+	.wrapper-faq-whatsapp .message-box {
+		font-size: 12px;
+		padding: 10px 15px;
+	}
+}
+
+
+.ea-header{
+	direction: rtl;
+}
